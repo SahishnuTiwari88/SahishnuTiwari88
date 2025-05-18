@@ -1,37 +1,64 @@
-<h1 align="center">Hi, I'm Sahishnu Tiwari</h1>
+<!-- Centered content wrapper -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Lifelong+Learner+%7C+Problem+Solver&center=true&width=500&height=50">
+  <!-- Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/93402078?v=4" alt="Sahishnu Tiwari" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
+<div align="center" style="max-width: 700px; margin: auto;">
+
 ### 🚀 About Me
 
-- Passionate backend developer with 2 years of experience  
-- Skilled in Java, Spring Boot, REST APIs  
-- Interested in microservices, Git, and building scalable systems  
-- Exploring DevOps tools like Docker, Kubernetes, Jenkins  
+- Passionate Backend Developer with 2 years experience
+- Skilled in **Java**, **Spring Boot**, **REST APIs**
+- Building microservices & scalable systems
+- Exploring **DevOps**: Docker, Kubernetes, Jenkins
 
 ---
 
 ### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahishnuTiwari88&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahishnuTiwari88&theme=tokyonight&hide_border=false" width="48%">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahishnu-tiwari)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahishnuTiwari88&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahishnuTiwari88&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahishnu-tiwari" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SahishnuTiwari88" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- Footer -->
+<p align="center" style="font-size: 12px; color: gray;">Built with ❤️ by Sahishnu Tiwari</p>
