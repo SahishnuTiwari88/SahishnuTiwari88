@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
