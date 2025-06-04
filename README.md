@@ -1,7 +1,7 @@
 <!-- Centered content wrapper -->
 <p align="center">
   <!-- Profile Image -->
- <img src="https://i.pinimg.com/736x/72/4d/b3/724db3b7cf6974cc31de7ab4de88f67b.jpg" alt="Badass Avatar" width="150" height="150" style="border-radius: 50%;" />
+ <img src="https://images.unsplash.com/photo-1613145990965-58fb0c87f2b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80" alt="Badass Developer" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
 </p>
 
 <h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
