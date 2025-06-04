@@ -1,7 +1,7 @@
 <!-- Centered content wrapper -->
 <p align="center">
   <!-- Profile Image -->
-<img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/media/profile-github.png" alt="Aesthetic Developer Avatar" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
+<img src="https://avatars.githubusercontent.com/u/50036058?v=4" alt="Badass Developer" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);" />
 </p>
 
 <h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
