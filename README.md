@@ -1,7 +1,7 @@
 <!-- Centered content wrapper -->
 <p align="center">
   <!-- Profile Image -->
-  <img src="https://avatars.dicebear.com/api/adventurer-neutral/badass-developer.svg" alt="Badass Avatar" width="150" height="150" style="border-radius: 50%;" />
+ <img src="https://i.pinimg.com/736x/72/4d/b3/724db3b7cf6974cc31de7ab4de88f67b.jpg" alt="Badass Avatar" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
