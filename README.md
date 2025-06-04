@@ -1,11 +1,12 @@
 <!-- Centered content wrapper -->
 <p align="center">
   <!-- Profile Image -->
-<img src="https://images.unsplash.com/photo-1615204824946-8f0b6b2f7b4c?auto=format&fit=crop&w=300&h=300&q=80" 
-     alt="Badass Developer" 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" 
+     alt="Developer Avatar" 
      width="150" 
      height="150" 
-     style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6); object-fit: cover;" />
+     style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.6); object-fit: cover;" />
+
 </p>
 
 <h1 align="center">Hi, I'm <b>Sahishnu Tiwari</b></h1>
