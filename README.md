@@ -65,8 +65,9 @@
 ## 🌍 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SahishnuTiwari88/SahishnuTiwari88/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/SahishnuTiwari88/SahishnuTiwari88/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
